@@ -1,6 +1,5 @@
-# eye_refraction_sim
-瞳孔经过角膜折射的仿真
+# eye_model_sim
 
-main.m生成仿真数据
+瞳孔折射 光斑反射 
 
-show.m画出仿真结果示意图
+
